@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "2026-10-25-fender-bender",
+      "date": "2026-10-25",
+      "title": "Meet Fender & Bender Mutual",
+      "body": "Car insurance is here. Get a quote in the new Fender & Bender app: Basic, Standard, Preferred or Collector. Crashes are recorded from the damage itself, and an approved claim pays you cash, books an approved shop, or fixes the car on the spot. We've seen worse.",
+      "app": "insurance"
+    },
+    {
+      "id": "2026-10-25-version-040",
+      "date": "2026-10-25",
+      "title": "GarageLink 0.4.0",
+      "body": "Arrange your home screen: hold an app, then drag it where you want it, and hold it at the edge to move it to another page. The DMV now asks for proof of insurance to register, and in Full realism a lapse suspends the registration.",
+      "app": "settings"
+    },
+    {
+      "id": "2026-10-25-ppd-shredder",
+      "date": "2026-10-25",
+      "title": "The Micro-Cut Shredder",
+      "body": "New in PPD Supply: a satin-black cross-cut shredder for $149. Hold a printed document over the slot and right-click to feed it in. Watch the shreds fill the bin through its window, then empty it with a right-click.",
+      "app": "supply"
+    },
+    {
+      "id": "2026-10-22-ppd-supply",
+      "date": "2026-10-22",
+      "title": "Introducing PPD Supply",
+      "body": "The new home for the PPD photo printer and GarageLink document folders. Choose free next-day delivery or $25 express, then open the sealed box at your garage desk. Put printed papers in a folder by hand and keep it in the glove box.",
+      "app": "supply"
+    },
+    {
+      "id": "2026-10-22-dmv-plates",
+      "date": "2026-10-22",
+      "title": "DMV plates and inspections",
+      "body": "Order state plates from the DMV and have them mailed to your garage desk or fitted on the spot, with a front bracket where your state needs one. Inspections check your car before it goes on the road.",
+      "app": "dmv"
+    },
+    {
+      "id": "2026-10-22-version",
+      "date": "2026-10-22",
+      "title": "GarageLink 0.3.0",
+      "body": "Archive or delete paperwork, payments, plates and sold cars in a few taps. Selling a car hands its title, registration and plates to the buyer, and you get a release of liability for your records.",
+      "app": "dmv"
+    },
+    {
+      "id": "2026-10-19-weather-app",
+      "date": "2026-10-19",
+      "title": "Meet the Weather app",
+      "body": "Get the free Weather app from the App Store. It shows your garage's live game weather, or enter a US ZIP code to see real local weather with the next six hours. Only the area you choose is saved, on your PC.",
+      "app": "weather"
+    },
+    {
+      "id": "2026-10-19-new-home",
+      "date": "2026-10-19",
+      "title": "A fresh home screen",
+      "body": "The weather card now follows the sky, and PPD News rotates through the latest updates. Tap a card to open it. App icons are sharper, and you can choose Small, Medium or Large icons in Settings, under Home screen.",
+      "app": "settings"
+    },
+    {
+      "id": "2026-10-19-hang-prints",
+      "date": "2026-10-19",
+      "title": "Hang prints by hand",
+      "body": "Hold the right mouse button on a photo print to carry it. Aim at a clear wall and release to hang it, or release anywhere else to set it down.",
+      "app": "print"
+    },
+    {
+      "id": "2026-10-19-print-studio",
+      "date": "2026-10-19",
+      "title": "Print Studio is here",
+      "body": "Order the $750 PPD photo printer from Print Studio. It arrives at your desk catalog delivery spot. Print your photos for $15 each in two sizes and hang them in your garage.",
+      "app": "print"
+    },
+    {
+      "id": "2026-10-18-charging-dock",
+      "date": "2026-10-18",
+      "title": "GarageLink charging dock",
+      "body": "Find the $125 charging dock beside the counter at Louis's shop. Set your tablet on it to charge, with the time shown on the dock display."
+    }
+  ]
+}
