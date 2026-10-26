@@ -1,6 +1,13 @@
 {
   "version": 1,
   "items": [
+        {
+      "id": "2026-10-26-auto-updates",
+      "date": "2026-10-26",
+      "title": "Your tablet now updates itself",
+      "body": "New versions of GarageLink now download in the background and install the next time you start the game. Find it in Settings, under Updates, where you can also turn automatic downloads off.",
+      "app": "settings"
+    },
     {
       "id": "2026-10-25-fender-bender",
       "date": "2026-10-25",
