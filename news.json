@@ -2,6 +2,12 @@
   "version": 1,
   "items": [
     {
+      "id": "2026-11-01-release",
+      "date": "2026-11-01",
+      "title": "GarageLink is live!",
+      "body": "GarageLink is now available on Nexus Mods. Thanks for downloading and trying it!"
+    },
+    {
       "id": "2026-11-01-welcome",
       "date": "2026-11-01",
       "title": "Welcome to GarageLink",
