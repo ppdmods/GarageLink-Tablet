@@ -1,6 +1,12 @@
 {
   "version": 1,
   "items": [
+        {
+      "id": "2026-11-02-sellme-polish",
+      "date": "2026-11-02",
+      "title": "GarageLink 0.9.1",
+      "body": "Printed signs and papers now stick to your cars, and the DEALER plate sits on the rear bracket. SellMe has a full-size website you can preview on a computer or a phone, a new showroom home page, far more detailed sale papers, and buyers who don't repeat themselves."
+    },
     {
       "id": "2026-11-01-release",
       "date": "2026-11-01",
