@@ -10,7 +10,7 @@
      {
       "id": "2026-11-06-v0-9-4",
       "date": "2026-11-06",
-      "title": "0.9.4: Printing fixes and a more reliable tablet",
+      "title": "0.9.4: Printing fixes and a more reliable tablet.",
       "body": "This update fixes Print Studio, Vehicle Studio and document printing on some setups, and Reissue papers works every time again. Paperwork that wouldn't open or print now does. We've also added protections so the tablet and its apps keep running smoothly across many different setups and alongside other mods, plus plenty of smaller bug fixes. Thanks for the support!"
     },
         {
