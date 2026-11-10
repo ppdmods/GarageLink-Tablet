@@ -2,16 +2,11 @@
   "version": 1,
   "items": [
          {
-      "id": "2026-11-08-uk-coming",
+      "id": "2026-11-09-v0-9-5",
       "date": "2026-11-09",
-      "title": "Coming today: the UK",
-      "body": "Update coming today. Your DMV profile now has a country setting. Switch to the United Kingdom and you get proper UK plates, a GB driving licence, V5C log books, vehicle tax and the MOT, all done the way Great Britain does it. Bring your US licence with you and it's good for 12 months, then it's the provisional and both driving tests like everyone else. Cars and papers you already have keep the place that issued them. Check out the new plates, ID, documents and more."
-    },
-    {
-      "id": "2026-11-08-financing-coming",
-      "date": "2026-11-09",
-      "title": "Coming soon: financing in SellMe",
-      "body": "Coming soon, this update is taking longer to impliment perfectly. Financing is coming to SellMe. You set the down payment, the term, the rate, the grace period and the late fee, talk it through with the buyer and sign the contract. Some buyers pay on time, some pay late and some miss payments entirely. They might give you a reason and ask for more time. Your call. Or do you repo the car and send it to auction? New dealer warranties are in too. Tune in tomorrow."
+      "title": "GarageLink 0.9.5 - Financing and the UK update PART 1",
+      "body": "Financing is here. Sell cars on payments and carry the loan yourself, or send buyers to three partner lenders. Buyers apply for credit, you pull their report, you decide their downpayment, terms and rates, plus more.. Work every deal on the new negotiation tab with cosigners, split down payments, extras, final offers and more to explore. Late payers go to Collections, from reminders to repo and auction. The DMV goes international too, play in the UK with UK plates, a GB licence, V5C log books, vehicle tax and the MOT.
+           The UK Update is part 1, it is still recommended to play using USA and a state. Thanks for the support! -PPD mods"
     },
      {
       "id": "2026-11-06-v0-9-4",
