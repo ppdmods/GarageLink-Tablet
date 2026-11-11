@@ -1,6 +1,12 @@
 {
   "version": 1,
   "items": [
+    {
+      "id": "2026-11-10-v0-9-5",
+      "date": "2026-11-10",
+      "title": "Repair Network Update 1",
+      "body": "Update to the Repair Network app coming tomorrow. The Claims screen has been redesigned, and the whole look and feel is more organized. Repair types are now in tabs, including a new Collision tab with both minor and major crash repairs. Plus more minor bug fixes and QOL improvements. Thanks for the support! -PPD Mods"
+    },
          {
       "id": "2026-11-09-v0-9-5",
       "date": "2026-11-09",
