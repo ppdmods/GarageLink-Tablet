@@ -1,12 +1,12 @@
 {
   "version": 1,
   "items": [
-    {
-  "id": "2026-11-12-repair-network-part-1",
-  "date": "2026-11-12",
-  "title": "Repair Network Update Part 1 is here!",
-  "body": "Repair Network Update Part 1 is out! This is part 1 of 2, part 2 coming soon it will finish off any QOL fixes from part 1 and add alot more. The Claims screen has been redesigned, and the whole look and feel is more organized. Repair types are now in tabs, including Collision with both minor and major crash repairs, created from scratch. Eight new crash profiles add more variety to the damage and parts you'll be fixing, with heavy accidents causing damage behind the panels too. Repair points helps you find and work the screws, bolts and welds on the part you're looking at, you'll find it in the repair section once you've started repairing a car from Repair Network. You can also order one part, a few parts or the whole cart. Added the Tripod Work Light to PPD Supply, and added the GarageLink Charging Stand to PPD Supply! Plus cleaner claim cards, more maintenance jobs, fixes for crash cars disappearing or arriving without damage, and other minor bug fixes and QOL improvements. SellMe down payments now show in loan history, and Sold signs can be printed once a sale is agreed. Thanks for the support! -PPD Mods."
-}
+   {
+      "id": "2026-11-12-repair-network-part-1",
+      "date": "2026-11-12",
+      "title": "Repair Network Update Part 1 is here!",
+      "body": "Repair Network Update Part 1 is out! This is part 1 of 2, part 2 coming soon it will finish off any QOL fixes from part 1 and add alot more. The Claims screen has been redesigned, and the whole look and feel is more organized. Repair types are now in tabs, including Collision with both minor and major crash repairs, created from scratch. Eight new crash profiles add more variety to the damage and parts you'll be fixing, with heavy accidents causing damage behind the panels too. Repair points helps you find and work the screws, bolts and welds on the part you're looking at, you'll find it in the repair section once you've started repairing a car from Repair Network. You can also order one part, a few parts or the whole cart. Added the Tripod Work Light to PPD Supply, and added the GarageLink Charging Stand to PPD Supply! Plus cleaner claim cards, more maintenance jobs, fixes for crash cars disappearing or arriving without damage, and other minor bug fixes and QOL improvements. SellMe down payments now show in loan history, and Sold signs can be printed once a sale is agreed. Thanks for the support! -PPD Mods."
+    }
          {
       "id": "2026-11-09-v0-9-5",
       "date": "2026-11-09",
