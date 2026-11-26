@@ -1,6 +1,12 @@
 {
   "version": 1,
   "items": [
+        {
+      "id": "2026-11-26-known-bugs",
+      "date": "2026-11-26",
+      "title": "Known bugs",
+      "body": "Tool cart: fluid bottles may need to be loaded twice before they sit in place, after that they stay put for good. Coming soon, you'll be able to set the Tire Inflator and the PPD Scan Tool down properly and keep them running. Thanks for the support! -PPD Mods"
+    },
          {
       "id": "2026-11-26-v0-9-7-1",
       "date": "2026-11-26",
