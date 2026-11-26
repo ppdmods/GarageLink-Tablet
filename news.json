@@ -1,11 +1,11 @@
 {
   "version": 1,
   "items": [
-        {
+         {
       "id": "2026-11-26-v0-9-7-1",
       "date": "2026-11-26",
-      "title": "GarageLink 0.9.7.1 - Diagnostics, Tire Inflator and Languages",
-      "body": "The Diagnostics app is here! Scan any car to see everything wrong with it on an overhead map, then tap any Condition card for every part behind it. Add the PPD Scan Tool from PPD Supply for full engine, brake and suspension checks with live data. Also new in PPD Supply, the Cordless Tire Inflator fills to your set pressure and stops on its own, and the tool cart now docks both impacts, the inflator and the scan tool. Rick's Picks is open with the Hundred Reverse wire wheel. Language update part 1 adds French and Russian, pick yours in Settings under General. More updates to come. Thanks for the support! -PPD Mods"
+      "title": "GarageLink 0.9.7.1 - Diagnostics Update",
+      "body": "The Diagnostics app is here! Scan any car to see what's wrong on an overhead map, then tap any Condition card for every part behind it. The PPD Scan Tool adds full engine, brake and suspension checks with live data. Also new in PPD Supply, the Tire Inflator fills to your set pressure and stops on its own, and the tool cart now docks both impacts, the inflator and the scan tool. Rick's Picks is open with the Hundred Reverse. French and Russian are in Settings under General. More updates to come. Thanks for the support! -PPD Mods"
     },
         {
       "id": "2026-11-22-v0-9-6-9",
